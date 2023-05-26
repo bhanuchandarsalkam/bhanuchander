@@ -5,4 +5,8 @@ h1{
     margin:20px;
     width:500px;
     background-color:hsl(350, 66%, 36%);
+
+}
+.parent{
+    background-color:blue;
 }
